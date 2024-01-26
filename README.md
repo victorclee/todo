@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * Ruby version
 
+3.0.0
+
 * System dependencies
 
 * Configuration
@@ -17,7 +19,11 @@ Things you may want to cover:
 
 * How to run the test suite
 
+No tests yet
+
 * Services (job queues, cache servers, search engines, etc.)
+
+No jobs or services at the moment
 
 * Deployment instructions
 
